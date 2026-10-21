@@ -4,7 +4,7 @@
 
 **TradingAutoTV** là app trên Windows đọc **thẳng biểu đồ TradingView** bạn đang mở (lệnh của strategy, biểu tượng, nhãn chữ của chỉ báo…) rồi vào lệnh trên **MetaTrader 5** hoặc **Binance USDⓈ-M Futures** theo luật bạn đặt. Không cần tạo alert, không cần webhook.
 
-### 👉 [Tải bản mới nhất](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Giới thiệu tool](https://tradingauto.org/toolintroduce/tradingview) · [Đăng ký tài khoản](https://tradingauto.org/register)
+### 👉 [Tải bản mới nhất](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Giới thiệu tool](https://tradingauto.org/toolintroduce/tradingview) · [Đăng ký tài khoản](https://tradingauto.org/register) · [Mua key](https://tradingauto.org/Pricing)
 
 ---
 
@@ -35,11 +35,12 @@
 
 **📋 Nhật ký & tổng quan**
 - Một màn tổng quan cho mọi bot, tài khoản và việc cần xử lý; nhật ký đầy đủ từng tín hiệu, từng lệnh.
-- Giao diện Tiếng Việt / English.
+- Giao diện Tiếng Việt / English; trang **Sản phẩm khác** giới thiệu các tool TradingAuto khác.
 
 ## 🔑 License key
 
-- Vào lệnh cần **license key TradingView của TradingAuto** — mua tại **[tradingauto.org](https://tradingauto.org/toolintroduce/tradingview)**. Một key cấp cho một tài khoản và chạy ở một nơi (app này, EA hoặc MT5 Manager).
+- Vào lệnh cần **license key TradingView Bot của TradingAuto**. Một key cấp cho một tài khoản và chạy ở một nơi (app này, EA hoặc MT5 Manager).
+- **Mua key:** [Đăng ký tài khoản](https://tradingauto.org/register) → [Đăng nhập & mua trong Dashboard](https://tradingauto.org/dashboard) (có gói dùng thử) · [Bảng giá](https://tradingauto.org/Pricing).
 - **Tài khoản demo** và tài khoản mở dưới **IB TradingAuto** dùng key thành viên `vipmember` có sẵn trong app — **miễn phí**.
 - Không có key vẫn thêm tài khoản, tạo bot và chạy CHỈ THEO DÕI được — chỉ không gửi lệnh mới.
 

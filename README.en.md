@@ -4,7 +4,7 @@
 
 **TradingAutoTV** is a Windows app that reads **the TradingView chart you have open** (strategy orders, shapes, indicator labels…) and places orders on **MetaTrader 5** or **Binance USDⓈ-M Futures** following the rules you set. No alerts, no webhooks.
 
-### 👉 [Download the latest version](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Tool introduction](https://tradingauto.org/toolintroduce/tradingview) · [Register](https://tradingauto.org/register)
+### 👉 [Download the latest version](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Tool introduction](https://tradingauto.org/toolintroduce/tradingview) · [Register](https://tradingauto.org/register) · [Buy a key](https://tradingauto.org/Pricing)
 
 ---
 
@@ -35,11 +35,12 @@
 
 **📋 Log & overview**
 - One overview for all bots, accounts and things that need attention; a full log of every signal and order.
-- Vietnamese / English interface.
+- Vietnamese / English interface; an **Other products** page with the other TradingAuto tools.
 
 ## 🔑 License key
 
-- Trading needs a **TradingAuto TradingView license key** — buy it at **[tradingauto.org](https://tradingauto.org/toolintroduce/tradingview)**. One key is assigned to one account and runs in one place (this app, an EA or MT5 Manager).
+- Trading needs a **TradingAuto TradingView Bot license key**. One key is assigned to one account and runs in one place (this app, an EA or MT5 Manager).
+- **Buy a key:** [Register](https://tradingauto.org/register) → [Sign in & buy in the Dashboard](https://tradingauto.org/dashboard) (a free trial plan is available) · [Pricing](https://tradingauto.org/Pricing).
 - **Demo accounts** and accounts opened under the **TradingAuto IB** use the built-in member key `vipmember` — **free**.
 - Without a key you can still add accounts, create bots and run WATCH ONLY — you just cannot send new orders.
 
