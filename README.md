@@ -11,7 +11,7 @@
 ## ✨ Tính năng
 
 **📈 Đọc tín hiệu ngay trên chart**
-- Gắn với TradingView Desktop (hoặc Chrome / Edge) đang mở, đọc layout, biểu đồ và chỉ báo — chỉ đọc, không sửa chart của bạn.
+- Đọc TradingView trong một cửa sổ Chrome riêng của app (bấm **Mở Google Chrome** trong app, hồ sơ riêng, không đụng Chrome thường ngày): layout, biểu đồ và chỉ báo — chỉ đọc, không sửa chart của bạn.
 - Đối tượng kích hoạt: lệnh của strategy, biểu tượng, nhãn chữ, vạch, vùng… App đề xuất sẵn theo tên (Long → mở BUY, Short Exit → đóng SELL).
 - Điều kiện BẤT KỲ / TẤT CẢ / ÍT NHẤT k trong một số nến, kèm bộ lọc theo chỉ báo khác.
 
@@ -47,7 +47,7 @@
 ## 🚀 Bắt đầu
 
 1. **[Tải bộ cài](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: file `TradingAutoTV-<phiên bản>-setup.exe`, chạy để cài (không cần quyền admin; mặc định vào `%LOCALAPPDATA%\Programs\TradingAutoTV`, có lối tắt ở Start Menu). Windows hiện "Windows protected your PC" thì bấm **More info → Run anyway**.
-2. Mở TradingView Desktop kèm tham số `--remote-debugging-port=9222` (hoặc Chrome / Edge hồ sơ riêng, cổng 9223) và đăng nhập TradingView.
+2. Trong app, mục **TradingView** → bấm **Mở Google Chrome** → lần đầu đăng nhập TradingView trong cửa sổ đó (app nhớ cho các lần sau).
 3. Trong app: **License key** → **Tài khoản MT5** (hoặc Binance) → **＋ Bot từ layout này** → chạy CHỈ THEO DÕI → xem nhật ký → **Chuyển VÀO LỆNH**.
 
 Mục **Hướng dẫn** trong app có từng bước chi tiết.
@@ -56,7 +56,7 @@ Mục **Hướng dẫn** trong app có từng bước chi tiết.
 
 - Windows 10 / 11 64-bit.
 - Đã cài MetaTrader 5 (app nhân bản terminal từ bản cài của bạn) — hoặc tài khoản Binance Futures.
-- TradingView Desktop hoặc Chrome / Edge. Mỗi layout bot dùng nên ở một cửa sổ riêng, không thu nhỏ (TradingView ngừng cập nhật chart bị thu nhỏ).
+- Google Chrome (hoặc Microsoft Edge). Để cửa sổ Chrome của app mở trong lúc bot chạy, mỗi layout một cửa sổ, không thu nhỏ — Chrome tắt / treo thì bot tạm ngừng mở lệnh mới, mở lại là chạy tiếp.
 - Máy phải bật và có mạng thì bot mới chạy (dùng VPS Windows để chạy 24/7).
 
 ## 🔄 Cập nhật

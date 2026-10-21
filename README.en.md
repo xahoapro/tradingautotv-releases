@@ -11,7 +11,7 @@
 ## ✨ Features
 
 **📈 Signals straight from the chart**
-- Attaches to your open TradingView Desktop (or Chrome / Edge) and reads layouts, charts and indicators — read only, your chart is never changed.
+- Reads TradingView in the app's own Chrome window (click **Open Google Chrome** in the app; its own profile, your everyday Chrome is not touched): layouts, charts and indicators — read only, your chart is never changed.
 - Triggers: strategy orders, shapes, text labels, lines, zones… The app proposes them by name (Long → open BUY, Short Exit → close SELL).
 - ANY / ALL / AT LEAST k conditions within some bars, plus filters from other indicators.
 
@@ -47,7 +47,7 @@
 ## 🚀 Getting started
 
 1. **[Download the installer](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: `TradingAutoTV-<version>-setup.exe`, run it (no admin rights needed; installs to `%LOCALAPPDATA%\Programs\TradingAutoTV` with a Start Menu shortcut). If Windows shows "Windows protected your PC", click **More info → Run anyway**.
-2. Start TradingView Desktop with `--remote-debugging-port=9222` (or Chrome / Edge with a separate profile on port 9223) and sign in to TradingView.
+2. In the app, **TradingView** section → click **Open Google Chrome** → the first time, sign in to TradingView in that window (the app remembers it).
 3. In the app: **License keys** → **MT5 accounts** (or Binance) → **＋ Bot from this layout** → run WATCH ONLY → check the log → **Switch to TRADING**.
 
 The **Guide** section in the app walks through every step.
@@ -56,7 +56,7 @@ The **Guide** section in the app walks through every step.
 
 - Windows 10 / 11, 64-bit.
 - MetaTrader 5 installed (the app clones terminals from your installation) — or a Binance Futures account.
-- TradingView Desktop or Chrome / Edge. Keep each layout a bot uses in its own window, not minimized (TradingView stops updating minimized charts).
+- Google Chrome (or Microsoft Edge). Keep the app's Chrome window open while bots run, one window per layout, not minimized — if Chrome is closed / hangs, bots pause new orders and resume when it is opened again.
 - The computer must stay on and online for bots to run (use a Windows VPS for 24/7).
 
 ## 🔄 Updates
