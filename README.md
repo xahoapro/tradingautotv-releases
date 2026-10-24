@@ -1,8 +1,8 @@
 **🇻🇳 Tiếng Việt** · [🇬🇧 English](README.en.md)
 
-# TradingAutoTV — đọc tín hiệu trên chart TradingView, vào lệnh MT5 / Binance Futures
+# TradingView Auto — đọc tín hiệu trên chart TradingView, vào lệnh MT5 / Binance Futures
 
-**TradingAutoTV** là app trên Windows đọc **thẳng biểu đồ TradingView** bạn đang mở (lệnh của strategy, biểu tượng, nhãn chữ của chỉ báo…) rồi vào lệnh trên **MetaTrader 5** hoặc **Binance USDⓈ-M Futures** theo luật bạn đặt. Không cần tạo alert, không cần webhook.
+**TradingView Auto** là app trên Windows đọc **thẳng biểu đồ TradingView** bạn đang mở (lệnh của strategy, biểu tượng, nhãn chữ của chỉ báo…) rồi vào lệnh trên **MetaTrader 5** hoặc **Binance USDⓈ-M Futures** theo luật bạn đặt. Không cần tạo alert, không cần webhook.
 
 ### 👉 [Tải bản mới nhất](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Giới thiệu tool](https://tradingauto.org/toolintroduce/tradingview) · [Đăng ký tài khoản](https://tradingauto.org/register) · [Mua key](https://tradingauto.org/Pricing#tvbot)
 
@@ -46,7 +46,7 @@
 
 ## 🚀 Bắt đầu
 
-1. **[Tải bộ cài](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: file `TradingAutoTV-<phiên bản>-setup.exe`, chạy để cài (không cần quyền admin; mặc định vào `%LOCALAPPDATA%\Programs\TradingAutoTV`, có lối tắt ở Start Menu). Windows hiện "Windows protected your PC" thì bấm **More info → Run anyway**.
+1. **[Tải bộ cài](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: file `TradingViewAuto-<phiên bản>-setup.exe`, chạy để cài (không cần quyền admin; mặc định vào `%LOCALAPPDATA%\Programs\TradingAutoTV`, có lối tắt ở Start Menu). Windows hiện "Windows protected your PC" thì bấm **More info → Run anyway**.
 2. Trong app, mục **TradingView** → bấm **Mở Google Chrome** → lần đầu đăng nhập TradingView trong cửa sổ đó (app nhớ cho các lần sau).
 3. Trong app: **License key** → **Tài khoản MT5** (hoặc Binance) → **＋ Bot từ layout này** → chạy CHỈ THEO DÕI → xem nhật ký → **Chuyển VÀO LỆNH**.
 
@@ -70,4 +70,4 @@ File `-update.zip` và `latest.json` trong mục Releases dành cho cơ chế t�
 - Nhóm Zalo: [zalo.me/g/scuqhg283](https://zalo.me/g/scuqhg283) · Nhóm Telegram: [t.me/autotradingfreeall](https://t.me/autotradingfreeall)
 - Các tool khác: [MT5 Manager](https://github.com/xahoapro/mt5manager-releases) · [Copytrade Online](https://tradingauto.org/toolintroduce/copytrade) · [Smart DCA](https://tradingauto.org/toolintroduce/dcabot) · [Copy Signal → MT5](https://tradingauto.org/toolintroduce/signaltrader)
 
-> ⚠️ TradingAutoTV thực hiện đúng luật bạn đặt — **không dự đoán thị trường và không bảo đảm lợi nhuận**. Giao dịch ngoại hối / CFD / hợp đồng tương lai tiền mã hoá có rủi ro cao. Hãy chạy CHỈ THEO DÕI và tài khoản demo trước.
+> ⚠️ TradingView Auto thực hiện đúng luật bạn đặt — **không dự đoán thị trường và không bảo đảm lợi nhuận**. Giao dịch ngoại hối / CFD / hợp đồng tương lai tiền mã hoá có rủi ro cao. Hãy chạy CHỈ THEO DÕI và tài khoản demo trước.

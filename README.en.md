@@ -1,8 +1,8 @@
 [🇻🇳 Tiếng Việt](README.md) · **🇬🇧 English**
 
-# TradingAutoTV — read signals on your TradingView chart, trade on MT5 / Binance Futures
+# TradingView Auto — read signals on your TradingView chart, trade on MT5 / Binance Futures
 
-**TradingAutoTV** is a Windows app that reads **the TradingView chart you have open** (strategy orders, shapes, indicator labels…) and places orders on **MetaTrader 5** or **Binance USDⓈ-M Futures** following the rules you set. No alerts, no webhooks.
+**TradingView Auto** is a Windows app that reads **the TradingView chart you have open** (strategy orders, shapes, indicator labels…) and places orders on **MetaTrader 5** or **Binance USDⓈ-M Futures** following the rules you set. No alerts, no webhooks.
 
 ### 👉 [Download the latest version](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Tool introduction](https://tradingauto.org/toolintroduce/tradingview) · [Register](https://tradingauto.org/register) · [Buy a key](https://tradingauto.org/Pricing#tvbot)
 
@@ -46,7 +46,7 @@
 
 ## 🚀 Getting started
 
-1. **[Download the installer](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: `TradingAutoTV-<version>-setup.exe`, run it (no admin rights needed; installs to `%LOCALAPPDATA%\Programs\TradingAutoTV` with a Start Menu shortcut). If Windows shows "Windows protected your PC", click **More info → Run anyway**.
+1. **[Download the installer](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: `TradingViewAuto-<version>-setup.exe`, run it (no admin rights needed; installs to `%LOCALAPPDATA%\Programs\TradingAutoTV` with a Start Menu shortcut). If Windows shows "Windows protected your PC", click **More info → Run anyway**.
 2. In the app, **TradingView** section → click **Open Google Chrome** → the first time, sign in to TradingView in that window (the app remembers it).
 3. In the app: **License keys** → **MT5 accounts** (or Binance) → **＋ Bot from this layout** → run WATCH ONLY → check the log → **Switch to TRADING**.
 
@@ -70,4 +70,4 @@ The `-update.zip` and `latest.json` files under Releases are for the self-update
 - Zalo group: [zalo.me/g/scuqhg283](https://zalo.me/g/scuqhg283) · Telegram group: [t.me/autotradingfreeall](https://t.me/autotradingfreeall)
 - Other tools: [MT5 Manager](https://github.com/xahoapro/mt5manager-releases) · [Copytrade Online](https://tradingauto.org/toolintroduce/copytrade) · [Smart DCA](https://tradingauto.org/toolintroduce/dcabot) · [Copy Signal → MT5](https://tradingauto.org/toolintroduce/signaltrader)
 
-> ⚠️ TradingAutoTV executes the rules you set — it **does not predict the market and does not guarantee profit**. Trading forex / CFDs / crypto futures carries high risk. Run WATCH ONLY and a demo account first.
+> ⚠️ TradingView Auto executes the rules you set — it **does not predict the market and does not guarantee profit**. Trading forex / CFDs / crypto futures carries high risk. Run WATCH ONLY and a demo account first.
