@@ -39,16 +39,17 @@
 
 ## 🔑 License key
 
-- Vào lệnh cần **license key TradingView Bot của TradingAuto**. Một key cấp cho một tài khoản và chạy ở một nơi (app này, EA hoặc MT5 Manager).
-- **Mua key:** mở [Bảng giá](https://tradingauto.org/Pricing#tvbot) → chọn mục **📡 TradingView Bot** → mua theo hướng dẫn trên web (cần tài khoản tradingauto.org — chưa có thì [đăng ký](https://tradingauto.org/register) trước). Nút **Mua key** trong app mở đúng trang này.
-- **Tài khoản demo** và tài khoản mở dưới **IB TradingAuto** dùng key thành viên `vipmember` có sẵn trong app — **miễn phí**.
-- Không có key vẫn thêm tài khoản, tạo bot và chạy CHỈ THEO DÕI được — chỉ không gửi lệnh mới.
+- Bot vào lệnh cần **license key TradingView Auto** (từ bản 1.3.0, key riêng của app — key TradingView webhook / EA không dùng được). **Một key cho một máy**: chạy bao nhiêu bot, trên bao nhiêu tài khoản MT5 / Binance của máy đó cũng được. Key đang chạy ở máy khác thì app hỏi trước khi dùng ở máy này.
+- **Mua key:** mở [Bảng giá](https://tradingauto.org/Pricing#tvauto) → chọn mục **TradingView Auto** → mua theo hướng dẫn trên web (cần tài khoản tradingauto.org — chưa có thì [đăng ký](https://tradingauto.org/register) trước). Nút **Mua key** trong app mở đúng trang này.
+- Điền key ở mục **4 · Bot** trong app (ô License key → Kích hoạt). Cập nhật từ bản cũ thì key đang dùng tự thành key của máy.
+- **Bảng giao dịch** (nút MUA / BÁN ngay trên biểu đồ) **miễn phí**, không cần key.
+- Không có key vẫn thêm tài khoản, tạo bot và chạy CHỈ THEO DÕI được — chỉ bot không gửi lệnh mới.
 
 ## 🚀 Bắt đầu
 
 1. **[Tải bộ cài](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: file `TradingViewAuto-<phiên bản>-setup.exe`, chạy để cài (không cần quyền admin; mặc định vào `%LOCALAPPDATA%\Programs\TradingAutoTV`, có lối tắt ở Start Menu). Windows hiện "Windows protected your PC" thì bấm **More info → Run anyway**.
 2. Trong app, mục **TradingView** → bấm **Mở Google Chrome** → lần đầu đăng nhập TradingView trong cửa sổ đó (app nhớ cho các lần sau).
-3. Trong app: **License key** → **Tài khoản MT5** (hoặc Binance) → **＋ Bot từ layout này** → chạy CHỈ THEO DÕI → xem nhật ký → **Chuyển VÀO LỆNH**.
+3. Trong app: **Tài khoản giao dịch** (MT5 hoặc Binance) → **4 · Bot** (điền license key) → **＋ Tạo bot** → chạy CHỈ THEO DÕI → xem nhật ký → **Chuyển VÀO LỆNH**.
 
 Mục **Hướng dẫn** trong app có từng bước chi tiết.
 

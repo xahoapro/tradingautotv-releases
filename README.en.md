@@ -39,16 +39,17 @@
 
 ## 🔑 License key
 
-- Trading needs a **TradingAuto TradingView Bot license key**. One key is assigned to one account and runs in one place (this app, an EA or MT5 Manager).
-- **Buy a key:** open [Pricing](https://tradingauto.org/Pricing#tvbot) → choose **📡 TradingView Bot** → follow the steps on the site (a tradingauto.org account is needed — [register](https://tradingauto.org/register) first if you have none). The **Buy a key** button in the app opens this page.
-- **Demo accounts** and accounts opened under the **TradingAuto IB** use the built-in member key `vipmember` — **free**.
-- Without a key you can still add accounts, create bots and run WATCH ONLY — you just cannot send new orders.
+- Bots need a **TradingView Auto license key** to trade (from 1.3.0 the app has its own keys — TradingView webhook / EA keys do not work). **One key per computer**: run as many bots on as many MT5 / Binance accounts of that computer as you like. If the key is running on another computer the app asks before using it here.
+- **Buy a key:** open [Pricing](https://tradingauto.org/Pricing#tvauto) → choose **TradingView Auto** → follow the steps on the site (a tradingauto.org account is needed — [register](https://tradingauto.org/register) first if you have none). The **Buy a key** button in the app opens this page.
+- Enter the key in **4 · Bots** in the app (License key field → Activate). Updating from an older version turns the key you used into this computer's key.
+- The **Trade panel** (BUY / SELL buttons right on the chart) is **free**, no key needed.
+- Without a key you can still add accounts, create bots and run WATCH ONLY — only bots cannot send new orders.
 
 ## 🚀 Getting started
 
 1. **[Download the installer](https://github.com/xahoapro/tradingautotv-releases/releases/latest)**: `TradingViewAuto-<version>-setup.exe`, run it (no admin rights needed; installs to `%LOCALAPPDATA%\Programs\TradingAutoTV` with a Start Menu shortcut). If Windows shows "Windows protected your PC", click **More info → Run anyway**.
 2. In the app, **TradingView** section → click **Open Google Chrome** → the first time, sign in to TradingView in that window (the app remembers it).
-3. In the app: **License keys** → **MT5 accounts** (or Binance) → **＋ Bot from this layout** → run WATCH ONLY → check the log → **Switch to TRADING**.
+3. In the app: **Trading accounts** (MT5 or Binance) → **4 · Bots** (enter the license key) → **＋ Create bot** → run WATCH ONLY → check the log → **Switch to TRADING**.
 
 The **Guide** section in the app walks through every step.
 
