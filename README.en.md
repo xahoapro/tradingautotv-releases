@@ -2,7 +2,7 @@
 
 # TradingView Auto — read signals on your TradingView chart, trade on MT5 / Binance Futures
 
-**TradingView Auto** is a Windows app that reads **the TradingView chart you have open** (strategy orders, shapes, indicator labels…) and places orders on **MetaTrader 5** or **Binance USDⓈ-M Futures** following the rules you set. No alerts, no webhooks.
+**TradingView Auto** is a Windows app that reads **the TradingView chart you have open** (strategy orders, shapes, indicator labels…) and places orders on **MetaTrader 5** or **Binance USDⓈ-M Futures** following the rules you set. No alerts needed.
 
 ### 👉 [Download the latest version](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Tool introduction](https://tradingauto.org/toolintroduce/tradingview) · [Register](https://tradingauto.org/register) · [Buy a key](https://tradingauto.org/Pricing#tvbot)
 
@@ -39,7 +39,7 @@
 
 ## 🔑 License key
 
-- Bots need a **TradingView Auto license key** to trade (from 1.3.0 the app has its own keys — TradingView webhook / EA keys do not work). **One key per computer**: run as many bots on as many MT5 / Binance accounts of that computer as you like. If the key is running on another computer the app asks before using it here.
+- Bots need a **TradingView Auto license key** to trade (from 1.3.0 the app has its own keys). **One key per computer**: run as many bots on as many MT5 / Binance accounts of that computer as you like. If the key is running on another computer the app asks before using it here.
 - **Buy a key:** open [Pricing](https://tradingauto.org/Pricing#tvauto) → choose **TradingView Auto** → follow the steps on the site (a tradingauto.org account is needed — [register](https://tradingauto.org/register) first if you have none). The **Buy a key** button in the app opens this page.
 - Enter the key in **4 · Bots** in the app (License key field → Activate). Updating from an older version turns the key you used into this computer's key.
 - The **Trade panel** (BUY / SELL buttons right on the chart) is **free**, no key needed.

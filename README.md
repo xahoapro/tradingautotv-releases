@@ -2,7 +2,7 @@
 
 # TradingView Auto — đọc tín hiệu trên chart TradingView, vào lệnh MT5 / Binance Futures
 
-**TradingView Auto** là app trên Windows đọc **thẳng biểu đồ TradingView** bạn đang mở (lệnh của strategy, biểu tượng, nhãn chữ của chỉ báo…) rồi vào lệnh trên **MetaTrader 5** hoặc **Binance USDⓈ-M Futures** theo luật bạn đặt. Không cần tạo alert, không cần webhook.
+**TradingView Auto** là app trên Windows đọc **thẳng biểu đồ TradingView** bạn đang mở (lệnh của strategy, biểu tượng, nhãn chữ của chỉ báo…) rồi vào lệnh trên **MetaTrader 5** hoặc **Binance USDⓈ-M Futures** theo luật bạn đặt. Không cần tạo alert.
 
 ### 👉 [Tải bản mới nhất](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Giới thiệu tool](https://tradingauto.org/toolintroduce/tradingview) · [Đăng ký tài khoản](https://tradingauto.org/register) · [Mua key](https://tradingauto.org/Pricing#tvbot)
 
@@ -39,7 +39,7 @@
 
 ## 🔑 License key
 
-- Bot vào lệnh cần **license key TradingView Auto** (từ bản 1.3.0, key riêng của app — key TradingView webhook / EA không dùng được). **Một key cho một máy**: chạy bao nhiêu bot, trên bao nhiêu tài khoản MT5 / Binance của máy đó cũng được. Key đang chạy ở máy khác thì app hỏi trước khi dùng ở máy này.
+- Bot vào lệnh cần **license key TradingView Auto** (từ bản 1.3.0, key riêng của app). **Một key cho một máy**: chạy bao nhiêu bot, trên bao nhiêu tài khoản MT5 / Binance của máy đó cũng được. Key đang chạy ở máy khác thì app hỏi trước khi dùng ở máy này.
 - **Mua key:** mở [Bảng giá](https://tradingauto.org/Pricing#tvauto) → chọn mục **TradingView Auto** → mua theo hướng dẫn trên web (cần tài khoản tradingauto.org — chưa có thì [đăng ký](https://tradingauto.org/register) trước). Nút **Mua key** trong app mở đúng trang này.
 - Điền key ở mục **4 · Bot** trong app (ô License key → Kích hoạt). Cập nhật từ bản cũ thì key đang dùng tự thành key của máy.
 - **Bảng giao dịch** (nút MUA / BÁN ngay trên biểu đồ) **miễn phí**, không cần key.
