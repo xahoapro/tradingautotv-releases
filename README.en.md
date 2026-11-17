@@ -4,7 +4,7 @@
 
 **TradingView Auto** is a Windows app that reads **the TradingView chart you have open** (strategy orders, shapes, indicator labels…) and places orders on **MetaTrader 5** or **Binance USDⓈ-M Futures** following the rules you set. No alerts needed.
 
-### 👉 [Download the latest version](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Tool introduction](https://tradingauto.org/toolintroduce/tradingview) · [Register](https://tradingauto.org/register) · [Buy a key](https://tradingauto.org/Pricing#tvbot)
+### 👉 [Download the latest version](https://github.com/xahoapro/tradingautotv-releases/releases/latest) · [Tool introduction](https://tradingauto.org/toolintroduce/tradingview) · [Register](https://tradingauto.org/register) · [Buy a key](https://tradingauto.org/Pricing#tvauto)
 
 ---
 
